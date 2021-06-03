@@ -1,3 +1,3 @@
 # color_identification
 
-https://er-riya.github.io/color_identification/  tap here for  a quick review of my project.
+https://github.com/Er-Riya/color_identification.git      tap here for  a quick review of my project.
